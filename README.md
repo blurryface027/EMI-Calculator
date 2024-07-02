@@ -19,4 +19,4 @@
 </ol>
 
 <h3>Live Demo</h3>
-<p>You can view a live demo of the EMI Calculator <a href="URL">here</a>.</p>
+<p>You can view a live demo of the EMI Calculator <a href="https://emi-calculator-027.netlify.app/">here</a>.</p>
